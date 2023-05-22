@@ -113,6 +113,12 @@ body{
         top: -120px;
     }
 
+    .maps{
+        width: auto;
+        height: auto;
+
+    }
+
 
 }
 /*============= MEDIA QUERIES PANTALLA CHIKI========== */
@@ -129,5 +135,10 @@ body{
         flex-wrap:wrap !important;
         justify-content: center !important;
         text-align: center;
+    }
+    .maps{
+        width: 300px;
+        height: 300px;
+
     }
 }
